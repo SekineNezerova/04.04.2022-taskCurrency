@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\bin\Debug\net5.0\04.04.2022ClassCurrency.exe
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\bin\Debug\net5.0\04.04.2022ClassCurrency.deps.json
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\bin\Debug\net5.0\04.04.2022ClassCurrency.runtimeconfig.json
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\bin\Debug\net5.0\04.04.2022ClassCurrency.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\bin\Debug\net5.0\04.04.2022ClassCurrency.dll
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\bin\Debug\net5.0\ref\04.04.2022ClassCurrency.dll
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\bin\Debug\net5.0\04.04.2022ClassCurrency.pdb
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.AssemblyInfo.cs
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.dll
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\ref\04.04.2022ClassCurrency.dll
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.pdb
+C:\Users\User\source\repos\04.04.2022ClassCurrency\04.04.2022ClassCurrency\obj\Debug\net5.0\04.04.2022ClassCurrency.genruntimeconfig.cache
